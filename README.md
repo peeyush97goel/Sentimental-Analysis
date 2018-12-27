@@ -1,2 +1,2 @@
 # Sentimental-Analysis
-Contains the Project Code
+Contains the Project Code and output screenshots
